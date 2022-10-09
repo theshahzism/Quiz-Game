@@ -1,0 +1,66 @@
+﻿. What was first intel processor:
+a)intel core i5
+b)intel 4004 
+c)intel 8048
+d)intel core i3
+2
+. Which chips are erased by ultraviolet rays:
+a)RAM
+b)PROM
+c)EPROM 
+d)EEPROM
+3
+. Which of following memory is an optical memory:
+a)floppy disk
+b)core memory
+c)CD-ROM
+d)bubble memory 
+4
+. Which field in batch file that is read while booting a computer:
+a)AUTO.BAT
+b)AUTOEXEC.BAT 
+c)AUTO.BATCH
+d)AUTOEXECUTIVE.BAT
+2
+. Which chips are erased and reprogrammed by electrical charge:
+a)RAM
+b)PROM
+c)EPROM
+d)EEPROM 
+4
+. What was the name of first electronic digital computer:
+a)IBM 1401
+b)ENIAC
+c)IBM 360
+d)none of these
+2
+. A magnetic tape can be serve as:
+a)secondary storage media
+b)input media
+c)output media
+d)all of these
+1
+. What is the number of read-write heads in the drive for a S-track magnetic tape:
+a)9
+b)16  
+c) 18
+d)27
+2
+. Which holds data and programs not currently in use and provide long-term storage:
+a)main memory
+b)primary memory
+c)RAM
+d)auxillary memory 
+4
+. Which is a semiconductor memory:
+a)static
+b)dynamic
+c)bubble
+d)both a and b
+3
+CEP ( CS-115)
+QUIZ GAME 
+ASSIGNED TO:
+MISS MARIA WAQAS & SIR KASHIF ASRAR
+PRESENTED BY:
+CS-126, CS-124, CS-128

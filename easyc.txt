@@ -1,0 +1,66 @@
+﻿. A tuple is a:
+a)row of a table 
+b)key of a table
+c)coloumn of a table
+d)two-dimensional table
+1
+. A collection of 4 bits is called:
+a)byte
+b)nibble 
+c)double-word
+d)word
+2
+. Error which is diagnosed by a compiler is:
+a)semantic error
+b)logial error
+c)syntax error 
+d)nono of these
+3
+. A memory that performs both read and write is often called:
+a)RAM  
+b)ROM
+c)cache
+d)all of these
+1
+. All directories are stored under one main directory called:
+a)server
+b)home
+c)folder
+d)root 
+4
+. Cache memory acts as a buffer between:
+a)CPU and hard disk
+b)RAM and ROM
+c)CPU and RAM 
+d)CPU and ROM
+3
+. Which of following  memory can not be accessed directly:
+a)primary memory
+b)secondary memory 
+c)RAM
+d)DRAM
+2
+. Which of following is fastest memory in computer:
+a)RAM
+b)ROM
+c)cache 
+d)none
+3
+. The data consisits of all still pictures such as drawings and photographs is :
+a)text
+b)video
+c)audio
+d)graphic
+ 4
+. Which memory is used for bios:
+a)RAM
+b)ROM 
+c)virtual memory
+d)optical disk
+2
+CEP ( CS-115)
+QUIZ GAME 
+ASSIGNED TO:
+MISS MARIA WAQAS & SIR KASHIF ASRAR
+PRESENTED BY:
+CS-126, CS-124, CS-128

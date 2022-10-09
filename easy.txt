@@ -1,0 +1,66 @@
+Question : The graph of radioactive decay is a curve:
+1. Parabolic
+2. Exponential 
+3. Hyperbolic
+4. Straight 
+2
+Question : Solar panels are the application of:
+1. Photoelectric Effect
+2. Davisson and Germer Experiment
+3. Compton Effect
+4. X-Ray Diffraction
+1
+Question : Which of the following have smallest wavelength?
+1. Matter waves
+2. Electromagnetic waves
+3. Sound waves
+4. Radio waves
+2
+Question : A heavy nucleus is necessary for pair production to satisfy:
+1. Law of conservation of energy 
+2. Law of conservation of momentum
+3. Law of conservation of mass
+4. Law of conservation of charge
+2
+Question : Which of the following work has to be done to enter into Earth's gravitational field from space?
+1. Zero
+2. Negative
+3. Positive
+4. None
+2
+Question : What will be the path of a bomb dropped by a jet flying horizontally with a constant velocity?
+1. Parabolic
+2. Straight
+3. Circular
+4. Horizontal
+1
+Question : A person having a mirror in his hand is moving uniformly with the speed of light, what will he see in the mirror?
+1. His own image
+2. Nothing
+3. Darkness
+4. Mirror will be vanished
+1
+Question : If Rayleigh Jeans law holds true for radiations of shorter wavelengths, what will happen if a bread is kept in the electric toaster?
+1. It will be toasted as normal
+2. It will be toasted rapidly
+3. It will be burnt right away
+4. The toaster will burst with bread  turn to ashes
+4
+Q: Which of the following processes relate to Energy mass equivalence?
+1. Pair Production
+2. X Ray Production
+3. Photoelectric effect
+4. Compton effect
+1
+Q: A particle whose spin quantum number is an integral number is called a/an:
+1. Electron
+2. Quark
+3. Boson
+4. Positron
+3
+CEP ( CS-115)
+QUIZ GAME 
+ASSIGNED TO:
+MISS MARIA WAQAS & SIR KASHIF ASRAR
+PRESENTED BY:
+CS-126, CS-124, CS-128

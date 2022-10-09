@@ -1,0 +1,60 @@
+Question : Why Chromium ions are doped with Al2O3 while making a Ruby laser?
+1. To increase its mass
+2. To create a metastable state
+3. Both 1 and 2
+4. None
+2
+Question : Which factor is responsible for a metastable state?
+1. The presence of vacant orbitals
+2. The nature of electrons
+3. The nature of nucleus
+4. The provision of extra energy
+1
+Question : Schrodinger's cat experiment proved that quantum state collapse is not only limited to:
+1. Conscious observer
+2. Unconscious observer
+3. Living observer
+4. Observer's specie
+1
+Question : The intensity of light from stars can be calculated using:
+1. Stefan Boltzmann Law
+2. Planck's law
+3. Rayleigh Jean's Law
+4. Netwon's Gravitational Law
+1
+Question : The escape velocity of a black hole within event horizon is:
+1. Equal to speed of light
+2. Greater than speed of light
+3. Less than speed of light
+4. Approximately Equal to speed of light
+2
+Question : Which one of the following paradoxes is related to quantum entanglement?
+1.Double slit experiment
+2. EPR paradox
+3. Schrodinger's cat paradox
+4. GZK paradox
+2
+Question : Telescope that is capable of observing the stars of neighbouring galaxies observes their state of:
+1. Past
+2. Present
+3. Future
+4. None
+1
+Q: The warping of space time is:
+1. Directly proportional to gravity
+2. Inversely proportional to gravity
+3. Does not depend upon gravity 
+4. None
+1
+Q:According to Copenhegan, which state would collapse on observation of a conscience observor?
+1. Solid
+2. Plasma
+3. Quantum
+4. Classical
+3
+CEP ( CS-115)
+QUIZ GAME 
+ASSIGNED TO:
+MISS MARIA WAQAS & SIR KASHIF ASRAR
+PRESENTED BY:
+CS-126, CS-124, CS-128

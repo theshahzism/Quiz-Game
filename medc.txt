@@ -1,0 +1,72 @@
+﻿. The capacity of computer of performing more than one task at the same time is called:
+a)versatility
+b)accuracy
+c)speed
+d)none of the above
+1
+. The main function of an electronic spread sheet is its:
+a)formulas
+b)filling
+c)sorting 
+d)heading
+3
+. CD-ROM is a:
+a)semiconductor memory
+b)memory register
+c)magnetic memory
+d)none of these 
+4
+. A central computer that holds collections programs for many PCs ,workstations computers is an:
+a)laptop
+b)server 
+c)minicomputer
+d)supercomputer
+2
+. The multi user operating system is based on the concept of:
+a)time-losing
+b)time-spooling
+c)time-gaining
+d)time-sharing 
+4
+. Spooling allowed the CPU to choose a particular  job for execution leading to the concept is called:
+a)job sharing
+b)job allotment
+c)job scheduling 
+d)job ration
+3
+. Most popular 16-bit operating system is:
+a)MS-DOS 
+b)TRS-DOS
+c)UNIX
+d)CP/M
+1
+. Which register point to next instruction address:
+a)accumulator
+b)data register
+c)address register
+d)program counter 
+4
+. Round robin is a:
+a)kind of magnetic drum
+b)memory allocation process
+c)process scheduling policy 
+d)process synchronization policy
+3
+. Which disk is used to cold boot a PC:
+a)program disk
+b)diagnostic disk
+c)system disk 
+d)setup disk
+3
+. Which disk is used to cold boot a PC:
+a)program disk
+b)diagnostic disk
+c)system disk 
+d)setup disk
+3
+CEP ( CS-115)
+QUIZ GAME 
+ASSIGNED TO:
+MISS MARIA WAQAS & SIR KASHIF ASRAR
+PRESENTED BY:
+CS-126, CS-124, CS-128
